@@ -6,7 +6,6 @@ I'm a passionate frontend developer with strong skills in Angular and JavaScript
 I love building beautiful and responsive web applications and exploring new tools to level up my skills.  
 In my free time, I enjoy playing and watching cricket.
 
----
 
 ## 🌐 Connect with me
 
