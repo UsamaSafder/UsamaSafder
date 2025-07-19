@@ -10,7 +10,7 @@ In my free time, I enjoy playing and watching cricket.
 
 ## 🌐 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Usama3056-181717?logo=github)](https://github.com/Usama3056)  
+[![GitHub](https://img.shields.io/badge/GitHub-UsamaSafder-181717?logo=github)](https://github.com/UsamaSafder)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-usamasafder-blue?logo=linkedin)](https://www.linkedin.com/in/usamasafder)  
 📧 [usamabinsafder10@gmail.com](mailto:usamabinsafder10@gmail.com)
 
